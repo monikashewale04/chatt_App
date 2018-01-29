@@ -1,0 +1,4 @@
+ChattApp.MainActivity, ChattApp;md5e974759538edb388665d56991dce5f8c.MainActivity
+ChattApp.MainActivity, ChattApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e974759538edb388665d56991dce5f8c.MainActivity
+ChattApp.MainActivity;md5e974759538edb388665d56991dce5f8c.MainActivity
+chattapp.MainActivity;md5e974759538edb388665d56991dce5f8c.MainActivity
